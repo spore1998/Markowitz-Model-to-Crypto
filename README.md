@@ -1,5 +1,5 @@
-# testtest
-Como usar :
+# Como utilizar :
+
 1º Fazer download da versão mais recente 
 
 2º fazer download dos ficheiros CSV 
